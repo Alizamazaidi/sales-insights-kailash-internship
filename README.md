@@ -24,7 +24,13 @@ This project demonstrates how sales data can be collected, cleaned, analyzed, an
 - Identified top-performing products contributing the highest revenue  
 - Analyzed region-wise sales to find strong and weak markets  
 - Observed monthly sales trends to identify high and low sales periods  
-- Highlighted low-performing products that needed better promotion  
+- Highlighted low-performing products that needed better promotion
+
+ ## 📌 Key Insights (from Analysis)
+- Delhi and Gurugram contributed the highest revenue among NCR locations.  
+- Shampoo and Hair Oil were the top-performing products by revenue.  
+- Sales peaked in June compared to May and July.  
+- A few products showed lower performance, indicating scope for better promotions.
 
 ## 🔒 Data Privacy
 The original company dataset used during the internship is confidential.  
